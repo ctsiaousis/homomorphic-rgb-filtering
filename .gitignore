@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+rgb_homomorphic_example
+
+# Output Figures
+Figures/*
